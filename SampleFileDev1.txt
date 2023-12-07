@@ -1,2 +1,2 @@
-This is test 1 for revert
+this is merging conflict test , adding few lines in main branch file.
 This is Sample File 1 for Dev Branch
