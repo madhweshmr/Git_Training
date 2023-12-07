@@ -1,2 +1,3 @@
-This is merging conflict test, adding few lines in main branch file right now!
+This is merging conflict test, adding a few random lines 
+adding few lines in main branch file right now!
 This is Sample File 1 for Dev Branch
